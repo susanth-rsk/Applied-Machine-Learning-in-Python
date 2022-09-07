@@ -1,6 +1,7 @@
 # Applied-Machine-Learning-in-Python
 ML project Assignments as a part of Coursera Specialization
-
+Course : Applied Machine Learning in Python
+Specialization : Applied Data Science with Python
 
 ## Projects
 
